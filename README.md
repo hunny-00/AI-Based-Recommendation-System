@@ -6,6 +6,7 @@
 *DURATION*: 8 WEEKS
 *MENTOR*: NEELA SANTOSH
 *DESCRIPTION:*
+
 🧠 Project Overview
 This project is an AI-based recommendation system built in Java using Apache Mahout, which is a powerful machine learning library. The system uses user-based collaborative filtering to recommend products or content based on user preferences.
 
@@ -34,4 +35,6 @@ For each user, system prints top N recommended items with score values.
 
 Intelligently handled edge cases and exceptions.
 
-##Output
+Output
+
+![Image](https://github.com/user-attachments/assets/0a419487-85f4-4eb7-9a0c-9181be01298c)
